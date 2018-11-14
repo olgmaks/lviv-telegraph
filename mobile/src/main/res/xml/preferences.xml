@@ -1,0 +1,24 @@
+<androidx.preference.PreferenceScreen
+		xmlns:app="http://schemas.android.com/apk/res-auto"
+		xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<ListPreference
+			android:key="country"
+			android:title="Country"
+			android:summary="Current country is %s"
+			android:entries="@array/countries"
+			android:entryValues="@array/country_codes"
+			android:defaultValue="1" />
+
+	<ListPreference
+			android:key="language"
+			android:title="Language"
+			android:summary="Current language is %s"
+			android:entries="@array/languages"
+			android:entryValues="@array/language_codes"
+			android:defaultValue="1" />
+
+
+
+
+</androidx.preference.PreferenceScreen>

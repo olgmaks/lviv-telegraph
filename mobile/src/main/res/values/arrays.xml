@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="empty_array">
+	</string-array>
+	<!--COUNTRIES-->
+	<string-array name="countries">
+		<item>USA</item>
+		<item>Россия</item>
+		<item>Україна</item>
+		<item>France</item>
+	</string-array>
+	<string-array name="country_codes">
+		<item>us</item>
+		<item>ru</item>
+		<item>ua</item>
+		<item>fr</item>
+	</string-array>
+	<!--LANGUAGES-->
+	<string-array name="languages">
+		<item>English</item>
+		<item>Русский</item>
+		<item>Україна</item>
+		<item>Francais</item>
+	</string-array>
+	<string-array name="language_codes">
+		<item>en</item>
+		<item>ru</item>
+		<item>ua</item>
+		<item>fr</item>
+	</string-array>
+</resources>
